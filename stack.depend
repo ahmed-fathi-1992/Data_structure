@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1581018132 source:c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STACK_.h"
+	"Qeueu_REQ3.h"
+
+1580920283 c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\stack.h
+
+1581011818 c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\stack_.h
+
+1580968073 source:c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\stack_.c
+	<stdio.h>
+	<stdlib.h>
+	"STACK_.h"
+
+1581011363 c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\queue_.h
+
+1581061906 c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\qeueu_req3.h
+	"STACK_.h"
+
+1581016615 source:c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\qeueu_req3.c
+	<stdio.h>
+	<stdlib.h>
+	"Qeueu_REQ3.h"
+
+1581062481 source:c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\linked_list_req5.c
+	<stdio.h>
+	<stdlib.h>
+	"Linked_List_REQ5.h"
+
+1581062536 c:\users\ahmed_pc\desktop\vvvvvvv\stack\stack\linked_list_req5.h
+
